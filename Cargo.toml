@@ -8,7 +8,7 @@ readme = "README.md"
 repository = "https://github.com/luca-iachini/mailroom"
 homepage = "https://github.com/luca-iachini/mailroom"
 description = "Async outbox for reliable message delivery in distributed microservices"
-categories = ["asynchronous", "distributed", "messaging", "network-programming"]
+categories = ["asynchronous", "network-programming"]
 keywords = ["outbox", "event-sourcing", "microservice", "distributed", "event-driven"]
 
 [features]
